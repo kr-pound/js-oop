@@ -1,9 +1,7 @@
 function Stopwatch() {
     let running = false;
-
     let startTime = null;
     let stopTime = null;
-
     let duration = 0;
 
     this.start = function() {
