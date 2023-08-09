@@ -1,0 +1,15 @@
+.gitignore
+
+node_modules/
+dist/
+
+src/
+
+index.html
+index.js
+
+package.json
+package-lock.json
+
+README.md
+webpack.config.js
